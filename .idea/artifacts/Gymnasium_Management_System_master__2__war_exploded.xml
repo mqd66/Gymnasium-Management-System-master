@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Gymnasium-Management-System-master (2):war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gymnasium_Management_System_master__2__war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Gymnasium-Management-System-master (2)" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Gymnasium-Management-System-master (2)/web/Web" />
+      <element id="javaee-facet-resources" facet="Gymnasium-Management-System-master (2)/web/Web2" />
+    </root>
+  </artifact>
+</component>
